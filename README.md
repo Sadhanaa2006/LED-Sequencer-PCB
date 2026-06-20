@@ -48,18 +48,19 @@ Designed a single-layer PCB for a 555 Timer-based LED Sequencer using Autodesk E
 
 **📝 Schematic**
 
-![Schematic](Images/schematic.png)
+![Schematic](Images/Schematic.png)
 
 **🟢 Top View**
 
-![PCB Top](Images/pcb_top.png)
+![PCB Top](Images/TopLayer.png)
 
 **🔵 Bottom View**
 
-![PCB Bottom](Images/pcb_bottom.png)
+![PCB Bottom](Images/BottomLayer.png)
 
 **📐 PCB Layout**
 
+![PCB Design](Images/PCBdesign.png)
 
 **🎯 Applications**
 
